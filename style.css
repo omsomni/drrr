@@ -131,7 +131,7 @@
 
 
 
-/*------- burns ------*/
+/*------- BURNS ------*/
 
 .burns{
     width: 100%;
@@ -286,6 +286,10 @@
 }
 
 
+
+
+
+
 /*------- PREVENTION ------*/
 .prevention{
     width: 100%;
@@ -301,6 +305,10 @@
     text-align: center;
 }
 
+.prevention p {
+    font-weight: 600;
+}
+
 .prev-row ul{
     list-style: none;
     background: #909090;
@@ -313,6 +321,12 @@
 .prev-row ul:hover{
     box-shadow: 0 0 20px 0px rgba(0,0,0,0.6);
 }
+
+
+
+
+
+
 
 
 /*------- EMERGENCY ------*/
@@ -346,6 +360,10 @@
     list-style: none;
     padding-top: 5px;
 }
+
+
+
+
 
 
 /*------- FOOTER ------*/
