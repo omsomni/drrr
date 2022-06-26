@@ -131,7 +131,7 @@
 
 
 
-/*------- BURNS ------*/
+/*------- burns ------*/
 
 .burns{
     width: 100%;
@@ -152,7 +152,6 @@
     line-height: 22px;
     padding: 10px;
     font-weight: 600;
-
 }
 
 .burns .row p{
@@ -178,6 +177,11 @@
     text-align: center;
     font-weight: 600;
     margin: 10px 0;
+}
+
+.burns h5 {
+    padding-bottom: 9px;
+    color: #D3D3D3;
 }
 
 .burn-col-1{
@@ -286,10 +290,6 @@
 }
 
 
-
-
-
-
 /*------- PREVENTION ------*/
 .prevention{
     width: 100%;
@@ -299,14 +299,14 @@
     padding-bottom: 50px;
 }
 
+.prevention p {
+    font-weight: 600;
+}
+
 .prevention h1 {
     font-size: 45px;
     color: #fff;
     text-align: center;
-}
-
-.prevention p {
-    font-weight: 600;
 }
 
 .prev-row ul{
@@ -321,12 +321,6 @@
 .prev-row ul:hover{
     box-shadow: 0 0 20px 0px rgba(0,0,0,0.6);
 }
-
-
-
-
-
-
 
 
 /*------- EMERGENCY ------*/
@@ -360,10 +354,6 @@
     list-style: none;
     padding-top: 5px;
 }
-
-
-
-
 
 
 /*------- FOOTER ------*/
